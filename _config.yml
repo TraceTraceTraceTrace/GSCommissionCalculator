@@ -1,0 +1,6 @@
+sass:
+  style: :compressed
+
+theme: jekyll-theme-primer
+
+title: GS Commission Calculator
